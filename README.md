@@ -3,13 +3,13 @@
 Profisional experiente em Planejamento Estratégico, Gestão de Empresas, Gestão de Vendas, Gestão de Marketing, Gestão de Equipes, Design Estratégico, Design de Produtos e Experiência de Usuário.
 - Empreendedor
 - Mentor, Conselheiro e Avaliador de startups
-- Em transição de carreira para a Área de Tecnologia procuro recolocação no mercado.
+- Em transição de carreira para a Área de Tecnologia, procuro recolocação no mercado.
 
 ## Formação Acadêmica
 
 - Graduado em Engenharia Elétrica | IMT - Instituto Mauá de Tecnologia - Escola de Engenharia Mauá
 - Pós Graduado em Admiistração da Produção | IMT - Escola de Engenharia Máuá
-- Especialização em Administração de Marketing - FGV
+- Especialização em Administração de Marketing | FGV
 - Pós Graduado em Empreendedorismo e Inovação Tecnológica | UNESP - UNIVESP - CREA 
 
 ## Experiência Profissional
