@@ -2,7 +2,7 @@
 
 Profisional experiente em Planejamento Estratégico, Gestão de Empresas, Gestão de Vendas, Gestão de Marketing, Gestão de Equipes, Design Estratégico, Design de Produtos e Experiência de Usuário.
 - Empreendedor
-- Mentor, Conselheiro e Avaliados de startups
+- Mentor, Conselheiro e Avaliador de startups
 - Em transição de carreira para a Área de Tecnologia procuro recolocação no mercado.
 
 ## Formação Acadêmica
