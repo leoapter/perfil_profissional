@@ -15,7 +15,8 @@ Profisional experiente em Planejamento Estratégico, Gestão de Empresas, Gestã
 ## Experiência Profissional
 
 - [LinkedIn](http://www.linkedin.com/in/leoapter)
-- [GitHub]
+- [GitHub](https://github.com/leoapter?tab=repositories)
+- [Discord]
 
 ---
 
