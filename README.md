@@ -16,7 +16,33 @@ Profisional experiente em Planejamento Estratégico, Gestão de Empresas, Gestã
 
 - [LinkedIn](http://www.linkedin.com/in/leoapter)
 - [GitHub](https://github.com/leoapter?tab=repositories)
-- [Discord]
+
+---
+## Soft Skills
+🔹 ***Pensamento Estratégico:***
+Sólida experiência em planejamento estratégico e gestão de negócios. Capacidade de enxergar cenários futuros, antecipar desafios e criar soluções inovadoras. Transforma objetivos complexos em ações concretas com visão de longo prazo.
+
+🔹 ***Liderança Inspiradora:***
+Eperiência em gestão de equipes e mentoria de startups, demonstra que sabe motivar e orientar pessoas para alcançar resultados. Combinação de inteligência emocional e pragmatismo para extrair o melhor de cada equipe.
+
+🔹 ***Tomada de Decisão Baseada em Dados:***
+O background em engenharia e administração proporciona uma abordagem analítica e estruturada para a resolução de problemas. Tomada de decisões embasadas em métricas, sempre equilibrando inovação e viabilidade.
+
+🔹 ***Capacidade de Adaptação e Aprendizado Contínuo:***
+A transição para a área de tecnologia mostra disposição e habilidade de reinventar e aprender continuamente, encarar mudanças como oportunidades e adapta rapidamente a novas ferramentas e metodologias.
+
+🔹 ***Empatia e Orientação ao Cliente:***
+Com forte atuação em marketing, experiência do usuário e design estratégico, compreende profundamente as necessidades do mercado e desenvolve soluções centradas no usuário, garantindo experiências impactantes e eficazes.
+
+🔹 ***Resolução Criativa de Problemas:***
+A interseção entre tecnologia, negócios e inovação exige criatividade para encontrar soluções fora do óbvio. O histórico em design estratégico e inovação tecnológica demonstra essa habilidade na prática.
+
+🔹 ***Mentalidade Empreendedora:***
+A experiência como empreendedor e mentor de startups reforça a proatividade, autonomia e capacidade de lidar com riscos e incertezas. Ver oportunidades onde outros veem obstáculos.
+
+🔹 ***Comunicação Clara e Persuasiva:***
+Como mentor e conselheiro de startups, domina a arte de comunicar ideias complexas de forma simples e persuasiva, seja para engajar equipes, convencer stakeholders ou apresentar projetos.
+
 
 ---
 
