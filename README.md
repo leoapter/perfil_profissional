@@ -1,5 +1,21 @@
 # Léo Apter | Perfil Profissional
 
+🚀 **Ajudando empresas a inovar e crescer com estratégia e tecnologia**  
+
+Atuo na **ideação e implementação de estratégias de posicionamento de mercado**, desenvolvimento e ajuste de **produtos e soluções**, garantindo **fit com o mercado**.  
+
+Utilizo **dados, machine learning e inteligência artificial** para otimizar **produtividade e qualidade interna**, impulsionando a eficiência e os resultados estratégicos.  
+
+📌 Sempre explorando novas tecnologias para transformar desafios em oportunidades.  
+
+🔗 **Conecte-se comigo:**  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/leoapter)  
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoapter)
+
+---
+
+# Experiência
+
 Profisional experiente em Planejamento Estratégico, Gestão de Empresas, Gestão de Vendas, Gestão de Marketing, Gestão de Equipes, Design Estratégico, Design de Produtos e Experiência de Usuário.
 - Empreendedor
 - Mentor, Conselheiro e Avaliador de startups
@@ -10,9 +26,7 @@ Profisional experiente em Planejamento Estratégico, Gestão de Empresas, Gestã
 - Graduado em Engenharia Elétrica | IMT - Instituto Mauá de Tecnologia - Escola de Engenharia Mauá
 - Pós Graduado em Admiistração da Produção | IMT - Escola de Engenharia Máuá
 - Especialização em Administração de Marketing | FGV
-- Pós Graduado em Empreendedorismo e Inovação Tecnológica | UNESP - UNIVESP - CREA 
-
-## Experiência Profissional
+- Pós Graduado em Empreendedorismo e Inovação Tecnológica | UNESP - UNIVESP - CREA
 
 - [LinkedIn](http://www.linkedin.com/in/leoapter)
 - [GitHub](https://github.com/leoapter?tab=repositories)
